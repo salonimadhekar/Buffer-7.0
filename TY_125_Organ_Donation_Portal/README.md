@@ -1,3 +1,20 @@
+# Organ Donation System
+
+## Team Details
+Team No: 125  
+Project Name: Organ Donation System  
+Domain : Open Innovation
+
+## Team Members
+- Saloni Madhekar
+- Anushka Guthe
+
+
+
+## Demonstration Video Link : https://drive.google.com/file/d/172nRPuN4CglvClp-yEFiMbGFq-wgCWuZ/view?usp=drivesdk
+
+## Project Description
+
 # 🫀 OrganLink — Organ Donation & Allocation System
 
 A full-stack organ donation management system built with **Spring Boot**, **React**, and **MySQL**. It uses **Dijkstra's algorithm** for transport routing and a **dynamic priority engine** that automatically ranks patients based on urgency and waiting time.
